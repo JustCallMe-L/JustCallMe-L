@@ -1,7 +1,4 @@
-### Yo was good B) 👋
-
-
-**JustCallMe-L/JustCallMe-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yo was good, Just Call Me 'L' here B) 👋
 
 Some things about me:
 
@@ -11,3 +8,7 @@ Some things about me:
 - Past Project: Comparisons.java - The horror game
   - A little horror game based off an inside joke that never got finished
 
+- 
+
+Got a couple of social media links here, feel free to check em' out:
+- https://linktr.ee/justcallmel

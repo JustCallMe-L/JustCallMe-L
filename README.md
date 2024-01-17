@@ -23,7 +23,7 @@ __________________________________________________________________________
     - FNF VS Tax: Songs, Art/Assets, custom note programmer (Lua)
     - FNF Funkin' Nullified: Song/Art assistance, assisted with custom menu transitions
     - GOOCAT - God Of Food: Created game icon, keeping the main programmer sane
-    - GOOCAT - Roadkill: Song composer, early concept brainstormer (artist)
+    - GOOCAT - Roadkill: Song composer
 
   __________________________________________________________________________
 Got a couple of social media links here, feel free to check em' out:

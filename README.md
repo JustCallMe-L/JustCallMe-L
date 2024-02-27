@@ -20,7 +20,6 @@ __________________________________________________________________________
  
   - Projects I've assisted:
     - FNF VS The Realm: Songs, small assistance with programming (Haxe / Lua)
-    - FNF VS Tax: Songs, Art/Assets, custom note programmer (Lua)
     - FNF Funkin' Nullified: Song/Art assistance, assisted with custom menu transitions
     - GOOCAT - God Of Food: Created game icon, keeping the main programmer sane
     - GOOCAT - Roadkill: Song composer

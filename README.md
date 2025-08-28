@@ -1,6 +1,6 @@
 ### Hello, I'm Just Call Me 'L' 👋
 
-About Me:
+**About Me:**
 - During high school, I was enrolled in the Digital Game Development pathline and was involved in the different aspects of it:
   - Art/Animation for Game Development
     - Adobe Animate for 2D
@@ -16,8 +16,9 @@ __________________________________________________________________________
   - self-taught experience with art (mainly in a cartoony art style)
     
   __________________________________________________________________________
-Got a couple of social media links here, feel free to check em' out:
-- https://linktr.ee/justcallmel
+**Additional Links:**
+- Social Links - https://linktr.ee/justcallmel
+- Scytheful DEMO - https://just-call-me-l.itch.io/scytheful-demo
 
   __________________________________________________________________________
 

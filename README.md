@@ -6,7 +6,7 @@
     - Adobe Animate for 2D
     - Blender for 3D
   - Digital Music Composition
-  - Programming (Java, Unity, and Godot's GDScript)
+  - Programming (Godot's GDScript, used to know Unity & BlueJ Java, lowk forgot it all lmao)
   
 __________________________________________________________________________
 **Knowledge:**
